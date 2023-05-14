@@ -12,7 +12,6 @@ const Navbar = () => {
     const {auth} = useContext(Context);
     const [user] = useAuthState(auth);
 
-
     return (
         <AppBar position="static">
             <Toolbar>
