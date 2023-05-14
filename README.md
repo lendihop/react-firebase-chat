@@ -1,1 +1,1 @@
-## Real time chat written with React, JavasScript and Firebase
+## Real time chat written with React, JavaScript and Firebase
